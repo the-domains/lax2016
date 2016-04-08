@@ -4,7 +4,7 @@
         <description><![CDATA[LAX2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 09:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 09:50:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://archive.doobybrain.com/tag/griffith-park-observatory/</link>
             <guid isPermaLink="false">03737667-317f-4875-b2fa-da45f9d44e37</guid>
             <pubDate>Fri, 08 Apr 2016 09:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://archive.doobybrain.com/tag/griffith-park-observatory/</p>]]></description>
-            <link>https://thegrid.ai/lax2016/httparchivedoobybraincomtaggriffith-park-observatory/index.html</link>
-            <guid isPermaLink="false">02569a66-750f-476c-86ab-7cdd029888c5</guid>
-            <pubDate>Fri, 08 Apr 2016 09:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
