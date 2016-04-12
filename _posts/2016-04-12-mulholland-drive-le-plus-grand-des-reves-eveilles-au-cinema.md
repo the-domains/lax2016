@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://lecinemaavecungranda.com/2015/05/24/mulholland-drive-le-p
 inLanguage: fr
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-12T14:38:11.051Z'
-dateModified: '2016-04-12T14:38:02.264Z'
+description: "Mulholland Drive est une route pittoresque de Los Angeles en Californie entrecoupée d'une section de randonnée non goudronnée. Longue de 38 km, cette route se prolonge par l'autoroute Mulholland Highway, formant un ensemble de 88 km, le Mulholland Scenic Parkway and Corridor1."
+datePublished: '2016-04-12T14:44:35.328Z'
+dateModified: '2016-04-12T14:44:32.173Z'
 author:
   - name: le cinema avec un grand A
     url: 'https://lecinemaavecungranda.com/author/lecinemaavecungranda/'
@@ -28,12 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Los Angeles: Boire son soda sur la route de Mulholland Drive
-
 <article style=""><h1>Mulholland Drive, le plus grand des rêves éveillés au cinéma</h1><p>Mulholland Drive est un film à énigme néo-noir américano-français écrit et réalisé par David Lynch et sorti en 2001. C'est le neuvième long métrage de la part l'un des maîtres incontestés des thrillers psychologiques. C'est premier film de Lynch que j'ai vu et j'avais 15 ans et cela été une révélation, j'ai pris une énorme...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0ed4aad2ab4450d97bac9db629939b96a3d925.jpg" /></article>
-
-Mulholland
-Drive est une route pittoresque de Los Angeles en Californie 
-entrecoupée d'une section de randonnée non goudronnée. Longue de 38 km, 
-cette route se prolonge par l'autoroute Mulholland Highway, formant un 
-ensemble de 88 km, le Mulholland Scenic Parkway and Corridor1\.
