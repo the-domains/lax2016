@@ -7,8 +7,8 @@ inLanguage: fr
 starred: false
 keywords: []
 description: "Mulholland Drive est une route pittoresque de Los Angeles en Californie entrecoupée d'une section de randonnée non goudronnée. Longue de 38 km, cette route se prolonge par l'autoroute Mulholland Highway, formant un ensemble de 88 km, le Mulholland Scenic Parkway and Corridor1."
-datePublished: '2016-04-12T14:44:35.328Z'
-dateModified: '2016-04-12T14:44:32.173Z'
+datePublished: '2016-04-12T15:03:46.954Z'
+dateModified: '2016-04-12T15:03:21.251Z'
 author:
   - name: le cinema avec un grand A
     url: 'https://lecinemaavecungranda.com/author/lecinemaavecungranda/'
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Mulholland Drive, le plus grand des rêves éveillés au cinéma</h1><p>Mulholland Drive est un film à énigme néo-noir américano-français écrit et réalisé par David Lynch et sorti en 2001. C'est le neuvième long métrage de la part l'un des maîtres incontestés des thrillers psychologiques. C'est premier film de Lynch que j'ai vu et j'avais 15 ans et cela été une révélation, j'ai pris une énorme...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0ed4aad2ab4450d97bac9db629939b96a3d925.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd0acc4-ab2a-4b85-9918-65ffb0f1de7d.jpg)
