@@ -4,8 +4,15 @@
         <description><![CDATA[LAX2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 15:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 15:15:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Los Angeles: Un Hot Dog chez le mythique "Pink's Hot Dogs"]]></title>
+            <description><![CDATA[<article><h1>Los Angeles: Un Hot Dog chez le mythique "Pink's Hot Dogs"</h1><p>Après quasiment une heure d'attente, on a pu goûter ces fameux hot dog où on pouvait voir au mur les photos dédicacées de toutes les stars étant venu manger un hot dog dans le restaurant. Entre l'équipe de Grey's Anatony et toutes les plus grandes stars d'hollywood, ça fait du monde au mur ! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a09d74c5f7524d2448f69ed9149c7549a4a298d.jpg"></article>]]></description>
+            <link>http://www.pinkshollywood.com/</link>
+            <guid isPermaLink="false">0bb46bd1-704a-428c-a17b-24e5b04f2221</guid>
+            <pubDate>Wed, 13 Apr 2016 15:14:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Los Angeles: Un trekking et un coucher de soleil à Griffith Park]]></title>
             <description><![CDATA[<article><h1>Los Angeles: Un trekking et un coucher de soleil à Griffith Park</h1><p>Le lieu se compose de hautes collines, de canyons, de bois, de sentiers de randonnée et de jogging, de pistes cyclables et d'équitation etc. Le point culminant est le Mont Hollywood, haut de 540 m. De nombreux endroits demeurent encore très sauvages. On y trouve le zoo de Los Angeles, un observatoire astronomique et des musées, parmi lesquels le Gene Autry Western Heritage Museum, le musée de la locomotive etc. C'est enfin sur le Mont Lee que se situe le fameux panneau Hollywood, emblématique d'Hollywood.  Toutefois bien que très grand, bien plus que le Central Park il n'est pas en centre ville mais en grande banlieue de Los Angeles. De plus il n'a pas été en totalité aménagé et de nombreuses zones sont restées encore totalement naturelles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6e03ec917826b197424e41b312e0ea00c8d150f.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
             <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
             <pubDate>Wed, 13 Apr 2016 13:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles: Un Hot Dog chez le mythique "Pink's Hot Dogs"]]></title>
-            <description><![CDATA[<article><h1>Los Angeles: Un Hot Dog chez le mythique "Pink's Hot Dogs"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a09d74c5f7524d2448f69ed9149c7549a4a298d.jpg"></article>]]></description>
-            <link>http://www.pinkshollywood.com/</link>
-            <guid isPermaLink="false">0bb46bd1-704a-428c-a17b-24e5b04f2221</guid>
-            <pubDate>Tue, 12 Apr 2016 15:30:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
