@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.knok.com/100-cities/2013/just-another-perfect-day-in-la/'
 inLanguage: null
 starred: false
 keywords: []
 description: "Sunset Boulevard est une célèbre artère de 39 km à Los Angeles, en Californie, allant de Figueroa Street à Downtown Los Angeles jusqu'à la Pacific Coast Highway. Son nom officiel est West Sunset Boulevard, sauf sur la section qui traverse Beverly Hills."
-datePublished: '2016-04-12T14:43:48.091Z'
-dateModified: '2016-04-12T14:43:44.270Z'
+datePublished: '2016-04-13T13:56:34.173Z'
+dateModified: '2016-04-13T13:56:18.621Z'
 author: []
 title: 'Los Angeles: Rouler sur les 39 km de sunset boulevard avec une bonne playlist. '
 sourcePath: _posts/2016-04-08-los-angeles-rouler-sur-le-39-km-de-sunset-boulevard-avec-un.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.knok.com
   url: null
   favicon: null
+url: los-angeles-rouler-sur-les-39-km-de-sunset-boulevard-avec-u/index.html
 _context: 'http://schema.org'
 _type: Article
 
