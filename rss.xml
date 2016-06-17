@@ -4,8 +4,15 @@
         <description><![CDATA[LAX2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 14:24:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco: Visite de la prison Alcatraz de nuit. Au retour en bâteau magnifique vue sur la baie]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/104dfa1c-775a-41ab-b6b0-de1603b6dcf3.png">]]></description>
+            <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
+            <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
+            <pubDate>Fri, 17 Jun 2016 14:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Los Angeles: Une journée à Disneyland California jusqu'à minuit]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb115564f060eaf47263a7bcbc0690409545cb7f.jpg" alt="" title="">]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/lax2016/los-angeles-rouler-sur-les-39-km-de-sunset-boulevard-avec-u/index.html</link>
             <guid isPermaLink="false">b9746486-39ca-4d94-8d9a-1c9c2a180991</guid>
             <pubDate>Wed, 13 Apr 2016 13:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Francisco: Visite de la prison Alcatraz de nuit. Au retour en bâteau magnifique vue sur la baie]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/104dfa1c-775a-41ab-b6b0-de1603b6dcf3.png">]]></description>
-            <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
-            <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
-            <pubDate>Wed, 13 Apr 2016 13:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
