@@ -22,10 +22,10 @@ isBasedOnUrl: >-
 title: >-
   Les Inrocks - Entre weed et warehouse party: plongée dans le Los Angeles
   underground
-datePublished: '2016-07-04T15:37:54.645Z'
-dateModified: '2016-07-04T15:37:35.855Z'
-starred: false
+datePublished: '2016-07-04T15:38:27.439Z'
+dateModified: '2016-07-04T15:38:26.889Z'
 sourcePath: _posts/2016-07-04-les-inrocks-entre-weed-et-warehouse-party-plongee-dans-le.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
