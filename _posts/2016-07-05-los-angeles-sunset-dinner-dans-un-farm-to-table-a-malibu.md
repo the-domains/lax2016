@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-05T08:01:28.553Z'
+datePublished: '2016-07-05T08:01:38.790Z'
 isBasedOnUrl: 'https://www.malibu-farm.com/'
 keywords:
   - malibu
@@ -14,7 +14,7 @@ keywords:
   - everyday
 related: []
 author: []
-dateModified: '2016-07-05T07:56:08.802Z'
+dateModified: '2016-07-05T08:01:38.343Z'
 title: Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu
 app_links: []
 publisher:
@@ -26,8 +26,8 @@ description: >-
   https://www.malibu-farm.com/malibufarmreservation@gmail.com/M - Fr: 11-9 | Sa,
   Su: 9-10/(310) 456-8850
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-07-05-los-angeles-sunset-dinner-dans-un-farm-to-table-a-malibu.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
