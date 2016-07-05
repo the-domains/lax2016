@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LAX2016]]></title>
-        <description><![CDATA[LAX2016]]></description>
+        <title><![CDATA[LA2016]]></title>
+        <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 15:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 08:01:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Les Inrocks - Entre weed et warehouse party: plongée dans le Los Angeles underground]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/lax2016/los-angeles-rouler-sur-les-39-km-de-sunset-boulevard-avec-u/index.html</link>
             <guid isPermaLink="false">b9746486-39ca-4d94-8d9a-1c9c2a180991</guid>
             <pubDate>Fri, 17 Jun 2016 14:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu]]></title>
+            <description><![CDATA[<article><h1>Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu</h1><p>https://www.malibu-farm.com/malibufarmreservation@gmail.com/M - Fr: 11-9 | Sa, Su: 9-10/(310) 456-8850</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3666ef6f9122c155e793f1c25924b7fa/noop.jpg?input=https%3A%2F%2Fwww.malibu-farm.com%2Fwp-content%2Fthemes%2Fmalibu_farm%2Fimages%2Fcookbook%2Fsteak-small.jpg"></article>]]></description>
+            <link>https://www.malibu-farm.com/</link>
+            <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
+            <pubDate>Tue, 05 Jul 2016 08:01:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les Inrocks - Playlist: Los Angeles en 30 morceaux cultes]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lax2016/los-angeles-une-apres-midi-a-venice-beach-et-une-bouffe-le/index.html</link>
             <guid isPermaLink="false">59f52046-5d7a-4daa-845d-bb070d6e4bea</guid>
             <pubDate>Wed, 13 Apr 2016 15:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Affiche du film Mulholland Drive]]></title>
-            <description><![CDATA[<article><h1>Affiche du film Mulholland Drive</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd0acc4-ab2a-4b85-9918-65ffb0f1de7d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lax2016/los-angeles-boire-son-soda-sur-la-route-de-mulholland-drive/index.html</link>
-            <guid isPermaLink="false">ff74e4d3-dee3-421f-945a-01b72df85557</guid>
-            <pubDate>Wed, 13 Apr 2016 14:12:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
