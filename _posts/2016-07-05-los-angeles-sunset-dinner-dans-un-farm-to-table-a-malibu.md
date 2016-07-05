@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-05T08:01:38.790Z'
+datePublished: '2016-07-05T08:09:12.926Z'
+sourcePath: _posts/2016-07-05-los-angeles-sunset-dinner-dans-un-farm-to-table-a-malibu.md
 isBasedOnUrl: 'https://www.malibu-farm.com/'
 keywords:
   - malibu
@@ -14,7 +15,7 @@ keywords:
   - everyday
 related: []
 author: []
-dateModified: '2016-07-05T08:01:38.343Z'
+dateModified: '2016-07-05T08:04:29.473Z'
 title: Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu
 app_links: []
 publisher:
@@ -26,7 +27,6 @@ description: >-
   https://www.malibu-farm.com/malibufarmreservation@gmail.com/M - Fr: 11-9 | Sa,
   Su: 9-10/(310) 456-8850
 inLanguage: en
-sourcePath: _posts/2016-07-05-los-angeles-sunset-dinner-dans-un-farm-to-table-a-malibu.md
 starred: true
 inFeed: true
 hasPage: false
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3666ef6f9122c155e793f1c25924b7fa/noop.jpg?input=https%3A%2F%2Fwww.malibu-farm.com%2Fwp-content%2Fthemes%2Fmalibu_farm%2Fimages%2Fcookbook%2Fsteak-small.jpg" /><h1>Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu</h1><p>https://www.malibu-farm.com/malibufarmreservation@gmail.com/M - Fr: 11-9 | Sa, Su: 9-10/(310) 456-8850</p></article>
+![https://www.malibu-farm.com/malibufarmreservation@gmail.com/M - Fr: 11-9 | Sa, Su: 9-10/(310) 456-8850](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc231c96-577e-41f2-ad8b-6955fdc56dc5.png)
