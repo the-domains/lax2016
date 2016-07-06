@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 14:25:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Sunset dinner dans un "Farm to Table" à Malibu]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/lax2016/los-angeles-rouler-sur-les-39-km-de-sunset-boulevard-avec-u/index.html</link>
             <guid isPermaLink="false">b9746486-39ca-4d94-8d9a-1c9c2a180991</guid>
             <pubDate>Fri, 17 Jun 2016 14:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles: Un brunch à l'hotel Château Marmont]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545bde6c604c4f7982a29899b719b7d9930563a0.jpg" alt="Los Angeles: Un brunch &agrave; l&apos;hotel Ch&acirc;teau Marmont. Hotel du film &quot;Somewhere&quot; de Sofia Coppola">]]></description>
+            <link>http://madame.lefigaro.fr/art-de-vivre/california-dream-120513-381920</link>
+            <guid isPermaLink="false">483e9e2c-5947-4dc4-aab0-c0c1bb86df0f</guid>
+            <pubDate>Wed, 06 Jul 2016 14:25:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[San Francisco: Visite de la prison Alcatraz de nuit. Au retour en bâteau magnifique vue sur la baie]]></title>
@@ -68,13 +75,6 @@
             <link>https://disneyland.disney.go.com/attractions/disney-california-adventure/radiator-springs-racers/</link>
             <guid isPermaLink="false">ba135871-de79-4a94-a499-5ab4ef41256b</guid>
             <pubDate>Mon, 27 Jun 2016 09:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles: Un brunch à l'hotel Château Marmont]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545bde6c604c4f7982a29899b719b7d9930563a0.jpg" alt="" title="">]]></description>
-            <link>http://madame.lefigaro.fr/art-de-vivre/california-dream-120513-381920</link>
-            <guid isPermaLink="false">483e9e2c-5947-4dc4-aab0-c0c1bb86df0f</guid>
-            <pubDate>Mon, 27 Jun 2016 09:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
