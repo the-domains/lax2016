@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-05T08:09:58.440Z'
+datePublished: '2016-07-06T14:27:06.094Z'
 sourcePath: _posts/2016-07-04-les-inrocks-entre-weed-et-warehouse-party-plongee-dans-le.md
 isBasedOnUrl: >-
   http://www.lesinrocks.com/2016/06/29/musique/scene-underground-de-los-angeles-11849227/
@@ -9,7 +9,7 @@ author:
   - name: Carole Boinet
     url: 'http://www.lesinrocks.com/auteur/caroleboinet/'
     avatar: {}
-dateModified: '2016-07-05T08:09:39.204Z'
+dateModified: '2016-07-05T08:15:41.493Z'
 title: >-
   Los Angeles - Entre weed et warehouse party: plongée dans le Los Angeles
   underground
