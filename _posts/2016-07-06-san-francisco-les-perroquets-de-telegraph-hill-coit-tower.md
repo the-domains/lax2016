@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-06T14:35:42.667Z'
+datePublished: '2016-07-06T14:42:04.500Z'
 author: []
-dateModified: '2016-07-06T14:35:26.152Z'
+dateModified: '2016-07-06T14:42:03.812Z'
 title: ''
 description: >-
   San Francisco - Les perroquets de telegraph Hill. Coit tower et sa vue sur le
   downtown
-starred: false
 sourcePath: _posts/2016-07-06-san-francisco-les-perroquets-de-telegraph-hill-coit-tower.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
