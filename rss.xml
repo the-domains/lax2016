@@ -4,15 +4,8 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 14:43:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe54d9f3-4637-4320-930f-e449bf133b5b.jpg" alt="San Francisco - Les perroquets de telegraph Hill. Coit tower et sa vue sur le downtown">]]></description>
-            <link>https://thegrid.ai/lax2016/san-francisco-les-perroquets-de-telegraph-hill-coit-tower/index.html</link>
-            <guid isPermaLink="false">a9e7de20-bac4-417f-b0f6-5fbb64e3e134</guid>
-            <pubDate>Wed, 06 Jul 2016 14:42:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Los Angeles: Rouler sur les 39 km de sunset boulevard avec une bonne playlist. ]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b76c421db08f47d7a0c10249a7c74acb95285a86.jpg" alt="Los Angeles - Rouler sur les 39 km de sunset boulevard...">]]></description>
@@ -33,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[San Francisco - Les perroquets de telegraph Hill. Coit tower et sa vue sur le downtown]]></title>
+            <description><![CDATA[<article><h1>San Francisco - Les perroquets de telegraph Hill. Coit tower et sa vue sur le downtown</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe54d9f3-4637-4320-930f-e449bf133b5b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lax2016/san-francisco-les-perroquets-de-telegraph-hill-coit-tower/index.html</link>
+            <guid isPermaLink="false">a9e7de20-bac4-417f-b0f6-5fbb64e3e134</guid>
+            <pubDate>Wed, 06 Jul 2016 14:43:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Angeles - Un Hot Dog chez le mythique "Pink's Hot Dogs"]]></title>
