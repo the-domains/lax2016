@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 14:35:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles: Rouler sur les 39 km de sunset boulevard avec une bonne playlist. ]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe54d9f3-4637-4320-930f-e449bf133b5b.jpg" alt="San Francisco - Les perroquets de telegraph Hill. Coit tower et sa vue sur le downtown">]]></description>
+            <link>https://thegrid.ai/lax2016/san-francisco-les-perroquets-de-telegraph-hill-coit-tower/index.html</link>
+            <guid isPermaLink="false">a9e7de20-bac4-417f-b0f6-5fbb64e3e134</guid>
+            <pubDate>Wed, 06 Jul 2016 14:35:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Angeles: Un trekking et un coucher de soleil à Griffith Park]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
             <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
             <pubDate>Wed, 06 Jul 2016 14:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles - 30 morceaux cultes]]></title>
-            <description><![CDATA[<article><h1>Los Angeles - 30 morceaux cultes</h1><p>Ils ne sont pas tous de Los Angeles ou ne parlent pas tous de Los Angeles. Mais tous expriment quelque chose de cette ville tentaculaire dans laquelle il fait si bon se perdre.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/beaf85b38b396a6db94cbab8e5f25351/noop.jpg?input=http%3A%2F%2Fstatics.lesinrocks.com%2Fcontent%2Fthumbnails%2Fuploads%2F2016%2F06%2Flos-angeles-palmiers2-1-tt-width-750-height-630-fill-0-crop-1-bgcolor-000000-nozoom_default-1-lazyload-1.jpg"></article>]]></description>
-            <link>http://www.lesinrocks.com/2016/06/29/musique/playlist-los-angeles-30-morceaux-cultes-11850249/</link>
-            <guid isPermaLink="false">136fb0aa-e97e-4f3a-bf4c-c8f7f1e9985f</guid>
-            <pubDate>Wed, 06 Jul 2016 14:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
