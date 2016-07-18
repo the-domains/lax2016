@@ -5,23 +5,22 @@ description: >-
   mais une multitude de “petites villes” reliées entre elles par un affolant
   réseau de freeways et où, pourtant, la nature et l’océan n’ont pas perdu leurs
   droits.
-dateModified: '2016-07-18T11:55:10.045Z'
-datePublished: '2016-07-18T11:55:22.076Z'
+dateModified: '2016-07-18T14:47:13.154Z'
+datePublished: '2016-07-18T14:47:21.590Z'
 title: Los Angeles en bref...
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a5630f-71ae-4154-9df8-59fdd88778d7.jpg
-starred: false
 sourcePath: _posts/2016-07-18-los-angeles-en-bref.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a5630f-71ae-4154-9df8-59fdd88778d7.jpg)
-
 # Los Angeles en bref...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a5630f-71ae-4154-9df8-59fdd88778d7.jpg)
 
 Tentaculaire, excessive, fascinante, Los Angeles ne se donne pas, elle se mérite. Car les points de repère habituels y sont bouleversés : pas de centre, mais une multitude de "petites villes" reliées entre elles par un affolant réseau de freeways et où, pourtant, la nature et l'océan n'ont pas perdu leurs droits.
 
