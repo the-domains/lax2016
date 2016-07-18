@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-18T12:50:02.341Z'
-author: []
-dateModified: '2016-07-18T12:48:55.356Z'
-title: ''
-description: Les quartiers où il fait bon de trainer à LA!
-starred: false
+datePublished: '2016-07-18T14:43:13.790Z'
 sourcePath: _posts/2016-07-18-les-quartiers-ou-il-fait-bon-de-trainer-a-la.md
+author: []
+dateModified: '2016-07-18T14:42:39.886Z'
+title: Les quartiers où il fait bon trainer à LA!
+description: Downtown
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,7 +14,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Les quartiers où il fait bon de trainer à LA!
+# Les quartiers où il fait bon trainer à LA!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3140dd-17a5-4d18-b2bc-1d467a571353.jpg)
 
 **Downtown**
@@ -56,8 +56,33 @@ Pasadena est niché dans les collines de San Gabriel, en bordure nord-est de l'a
 * _Malibu : A Way of Life_ : Malibu, un style de vie
 * _Where the mountains meet the sea_ : Où les montagnes rejoignent la mer
 
+**Glendale**
+
+Glendale s'étend au bout de la partie est de la [vallée de San Fernando][5], est coupée en deux par les [Verdugo Mountains][6]. Elle est une banlieue importante au sein du [Grand Los Angeles][7]. La ville est bordée au sud-ouest par le [Atwater Village][8], un quartier de [Los Angeles][9], à l'ouest par [Burbank][10], au nord-ouest par le quartier [Tujunga][11] et la ville de [La Cañada Flintridge][12] et enfin à l'est par [Pasadena][13].
+
+Au recensement de 2010, la ville avait une population totale de 191 719 habitants, faisant de Glendale la troisième ville du Comté de Los Angeles. Glendale est également connue pour abriter l'une des plus grandes communautés [arméniennes][14] des États-Unis.
+
+## Économie
+
+C'est à Glendale que se trouve le siège pour les États-Unis de [Nestlé][15], la multinationale suisse. Glendale a été la première ville du monde à accueillir un [Apple Store][16] le [19][17][mai][18][2001][19].
+
 [0]: https://fr.wikipedia.org/wiki/Comt%C3%A9_de_Los_Angeles "Comté de Los Angeles"
 [1]: https://fr.wikipedia.org/wiki/Californie "Californie"
 [2]: https://fr.wikipedia.org/wiki/%C3%89tats-Unis "États-Unis"
 [3]: https://fr.wikipedia.org/wiki/2010 "2010"
 [4]: https://fr.wikipedia.org/wiki/Surf "Surf"
+[5]: https://fr.wikipedia.org/wiki/Vall%C3%A9e_de_San_Fernando "Vallée de San Fernando"
+[6]: https://fr.wikipedia.org/w/index.php?title=Verdugo_Mountains&action=edit&redlink=1 "Verdugo Mountains (page inexistante)"
+[7]: https://fr.wikipedia.org/wiki/Grand_Los_Angeles "Grand Los Angeles"
+[8]: https://fr.wikipedia.org/w/index.php?title=Atwater_Village&action=edit&redlink=1 "Atwater Village (page inexistante)"
+[9]: https://fr.wikipedia.org/wiki/Los_Angeles "Los Angeles"
+[10]: https://fr.wikipedia.org/wiki/Burbank_%28Californie%29 "Burbank (Californie)"
+[11]: https://fr.wikipedia.org/w/index.php?title=Tujunga&action=edit&redlink=1 "Tujunga (page inexistante)"
+[12]: https://fr.wikipedia.org/wiki/La_Ca%C3%B1ada_Flintridge "La Cañada Flintridge"
+[13]: https://fr.wikipedia.org/wiki/Pasadena "Pasadena"
+[14]: https://fr.wikipedia.org/wiki/Arm%C3%A9nie "Arménie"
+[15]: https://fr.wikipedia.org/wiki/Nestl%C3%A9 "Nestlé"
+[16]: https://fr.wikipedia.org/wiki/Apple_Store "Apple Store"
+[17]: https://fr.wikipedia.org/wiki/19_mai "19 mai"
+[18]: https://fr.wikipedia.org/wiki/Mai_2001 "Mai 2001"
+[19]: https://fr.wikipedia.org/wiki/2001 "2001"
