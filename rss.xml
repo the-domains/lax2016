@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 08:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 11:30:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Rouler sur les 39 km de sunset boulevard...]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles : Escapade pour la journée à Santa Barbara]]></title>
+            <description><![CDATA[<article><h1>Los Angeles : Escapade pour la journée à Santa Barbara</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7cab2-0906-4f34-8460-c833f08852f0.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7cab2-0906-4f34-8460-c833f08852f0.jpg</link>
+            <guid isPermaLink="false">3d3d2750-3150-48be-8bcd-9605887dbeb2</guid>
+            <pubDate>Mon, 18 Jul 2016 11:30:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Angeles: Un brunch à l'hotel Château Marmont]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lax2016/san-francisco-les-perroquets-de-telegraph-hill-coit-tower/index.html</link>
             <guid isPermaLink="false">a9e7de20-bac4-417f-b0f6-5fbb64e3e134</guid>
             <pubDate>Wed, 06 Jul 2016 15:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles - Boire son soda sur la route de Mulholland Drive]]></title>
-            <description><![CDATA[<article><h1>Los Angeles - Boire son soda sur la route de Mulholland Drive</h1><p>https://youtu.be/dl9jSfdyspg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd0acc4-ab2a-4b85-9918-65ffb0f1de7d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lax2016/los-angeles-boire-son-soda-sur-la-route-de-mulholland-drive/index.html</link>
-            <guid isPermaLink="false">ff74e4d3-dee3-421f-945a-01b72df85557</guid>
-            <pubDate>Wed, 06 Jul 2016 14:49:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
