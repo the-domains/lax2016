@@ -1,10 +1,12 @@
 ---
-datePublished: '2016-07-18T14:43:13.790Z'
+datePublished: '2016-08-12T12:02:46.095Z'
 sourcePath: _posts/2016-07-18-les-quartiers-ou-il-fait-bon-de-trainer-a-la.md
 author: []
-dateModified: '2016-07-18T14:42:39.886Z'
+dateModified: '2016-08-12T12:02:45.468Z'
 title: Les quartiers où il fait bon trainer à LA!
 description: Downtown
+publisher: {}
+via: {}
 starred: false
 inFeed: true
 hasPage: true
