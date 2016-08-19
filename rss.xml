@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 12:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 09:21:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Rouler sur les 39 km de sunset boulevard...]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boney Island]]></title>
+            <description><![CDATA[<article><h1>Boney Island</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/78911b997664c45f2898e713d262a923/noop.png?input=http%3A%2F%2Fwww.boneyisland.com%2Fimages%2FLikeUs.png"></article>]]></description>
+            <link>http://www.boneyisland.com/</link>
+            <guid isPermaLink="false">cb6a0617-2ebc-43b7-a0a0-dcf89f7cf868</guid>
+            <pubDate>Fri, 19 Aug 2016 09:21:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les quartiers où il fait bon trainer à LA!]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
             <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
             <pubDate>Mon, 18 Jul 2016 14:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles : Escapade pour la journée à Santa Barbara]]></title>
-            <description><![CDATA[<article><h1>Los Angeles : Escapade pour la journée à Santa Barbara</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a6ef6b0-574d-4977-bfbe-d079491afeb5.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7cab2-0906-4f34-8460-c833f08852f0.jpg</link>
-            <guid isPermaLink="false">3d3d2750-3150-48be-8bcd-9605887dbeb2</guid>
-            <pubDate>Mon, 18 Jul 2016 11:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
