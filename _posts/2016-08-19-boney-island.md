@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-19T09:24:42.046Z'
+datePublished: '2016-08-22T13:23:20.655Z'
 sourcePath: _posts/2016-08-19-boney-island.md
 isBasedOnUrl: 'http://www.boneyisland.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T09:24:41.528Z'
-title: ''
+dateModified: '2016-08-22T13:23:20.064Z'
+title: >-
+  Los Angeles - Boney Island. Une maison décorée pour Haloween dans le quartier
+  pas loin de notre maison.
 app_links: []
 publisher: {}
-description: >-
-  Los Angeles : Boney Island. Une maison décorée pour Haloween dans le quartier
-  pas loin de notre maison.
+description: ''
 starred: false
 inFeed: true
 hasPage: false
@@ -23,4 +23,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b12c5b-f205-4d7c-9265-d55fe7021f71.jpg)
 
-Los Angeles : Boney Island. Une maison décorée pour Haloween dans le quartier pas loin de notre maison.
+# Los Angeles - Boney Island. Une maison décorée pour Haloween dans le quartier pas loin de notre maison.
