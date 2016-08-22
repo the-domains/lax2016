@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 13:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 13:47:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Rouler sur les 39 km de sunset boulevard...]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just Float - Float Therapy Center - Float Tank Los Angeles]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a988cf3e-b25e-48a9-8f4f-ba11fb0e6837.png">]]></description>
+            <link>http://justfloat.com/</link>
+            <guid isPermaLink="false">ff38ba0c-a299-43e7-a3f9-4ee874cb9cd1</guid>
+            <pubDate>Mon, 22 Aug 2016 13:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Angeles - All day à Disneyland California]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7cab2-0906-4f34-8460-c833f08852f0.jpg</link>
             <guid isPermaLink="false">3d3d2750-3150-48be-8bcd-9605887dbeb2</guid>
             <pubDate>Mon, 22 Aug 2016 13:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Les quartiers où il fait bon trainer à LA!]]></title>
-            <description><![CDATA[<article><h1>Les quartiers où il fait bon trainer à LA!</h1><p>Downtown</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3140dd-17a5-4d18-b2bc-1d467a571353.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lax2016/les-quartiers-ou-il-fait-bon-de-trainer-a-la/index.html</link>
-            <guid isPermaLink="false">41240dfb-f9fe-456f-bcfe-a5d07e3feeb8</guid>
-            <pubDate>Mon, 22 Aug 2016 13:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
