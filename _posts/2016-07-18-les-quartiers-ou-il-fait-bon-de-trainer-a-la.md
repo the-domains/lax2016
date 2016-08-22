@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-12T12:02:46.095Z'
+datePublished: '2016-08-22T13:26:14.766Z'
 sourcePath: _posts/2016-07-18-les-quartiers-ou-il-fait-bon-de-trainer-a-la.md
 author: []
-dateModified: '2016-08-12T12:02:45.468Z'
-title: Les quartiers où il fait bon trainer à LA!
-description: Downtown
-publisher: {}
 via: {}
+dateModified: '2016-08-22T13:26:04.201Z'
+title: Les quartiers où il fait bon trainer à LA!
+publisher: {}
+description: Downtown
 starred: false
 inFeed: true
 hasPage: true
@@ -62,12 +62,6 @@ Pasadena est niché dans les collines de San Gabriel, en bordure nord-est de l'a
 
 Glendale s'étend au bout de la partie est de la [vallée de San Fernando][5], est coupée en deux par les [Verdugo Mountains][6]. Elle est une banlieue importante au sein du [Grand Los Angeles][7]. La ville est bordée au sud-ouest par le [Atwater Village][8], un quartier de [Los Angeles][9], à l'ouest par [Burbank][10], au nord-ouest par le quartier [Tujunga][11] et la ville de [La Cañada Flintridge][12] et enfin à l'est par [Pasadena][13].
 
-Au recensement de 2010, la ville avait une population totale de 191 719 habitants, faisant de Glendale la troisième ville du Comté de Los Angeles. Glendale est également connue pour abriter l'une des plus grandes communautés [arméniennes][14] des États-Unis.
-
-## Économie
-
-C'est à Glendale que se trouve le siège pour les États-Unis de [Nestlé][15], la multinationale suisse. Glendale a été la première ville du monde à accueillir un [Apple Store][16] le [19][17][mai][18][2001][19].
-
 [0]: https://fr.wikipedia.org/wiki/Comt%C3%A9_de_Los_Angeles "Comté de Los Angeles"
 [1]: https://fr.wikipedia.org/wiki/Californie "Californie"
 [2]: https://fr.wikipedia.org/wiki/%C3%89tats-Unis "États-Unis"
@@ -82,9 +76,3 @@ C'est à Glendale que se trouve le siège pour les États-Unis de [Nestlé][15],
 [11]: https://fr.wikipedia.org/w/index.php?title=Tujunga&action=edit&redlink=1 "Tujunga (page inexistante)"
 [12]: https://fr.wikipedia.org/wiki/La_Ca%C3%B1ada_Flintridge "La Cañada Flintridge"
 [13]: https://fr.wikipedia.org/wiki/Pasadena "Pasadena"
-[14]: https://fr.wikipedia.org/wiki/Arm%C3%A9nie "Arménie"
-[15]: https://fr.wikipedia.org/wiki/Nestl%C3%A9 "Nestlé"
-[16]: https://fr.wikipedia.org/wiki/Apple_Store "Apple Store"
-[17]: https://fr.wikipedia.org/wiki/19_mai "19 mai"
-[18]: https://fr.wikipedia.org/wiki/Mai_2001 "Mai 2001"
-[19]: https://fr.wikipedia.org/wiki/2001 "2001"
