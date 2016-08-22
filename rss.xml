@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 13:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 13:26:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Rouler sur les 39 km de sunset boulevard...]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles - Escapade pour la journée à Santa Barbara]]></title>
+            <description><![CDATA[<article><h1>Los Angeles - Escapade pour la journée à Santa Barbara</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a6ef6b0-574d-4977-bfbe-d079491afeb5.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7cab2-0906-4f34-8460-c833f08852f0.jpg</link>
+            <guid isPermaLink="false">3d3d2750-3150-48be-8bcd-9605887dbeb2</guid>
+            <pubDate>Mon, 22 Aug 2016 13:26:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les quartiers où il fait bon trainer à LA!]]></title>
@@ -68,13 +75,6 @@
             <link>http://madame.lefigaro.fr/art-de-vivre/california-dream-120513-381920</link>
             <guid isPermaLink="false">483e9e2c-5947-4dc4-aab0-c0c1bb86df0f</guid>
             <pubDate>Mon, 18 Jul 2016 14:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Francisco - Visite de la prison Alcatraz de nuit et retour en bâteau]]></title>
-            <description><![CDATA[<article><h1>San Francisco - Visite de la prison Alcatraz de nuit et retour en bâteau</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/104dfa1c-775a-41ab-b6b0-de1603b6dcf3.png"></article>]]></description>
-            <link>https://thegrid.ai/lax2016/san-francisco-visite-de-la-prison-alcatraz-de-nuit-au-reto/index.html</link>
-            <guid isPermaLink="false">3b15f6d2-06e6-43c1-972c-e7a8134d6d26</guid>
-            <pubDate>Mon, 18 Jul 2016 14:43:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
