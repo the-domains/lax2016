@@ -4,7 +4,7 @@
         <description><![CDATA[LA2016]]></description>
         <link>https://thegrid.ai/lax2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 13:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 13:27:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lax2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Angeles - Rouler sur les 39 km de sunset boulevard...]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.malibu-farm.com/</link>
             <guid isPermaLink="false">ce16d59e-1dce-4c8c-9fdc-96a50435c063</guid>
             <pubDate>Tue, 05 Jul 2016 08:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles - Brunch à l'hotel Château Marmont. Hotel du film "Somewhere" de Sofia Coppola]]></title>
+            <description><![CDATA[<article><h1>Los Angeles - Brunch à l'hotel Château Marmont. Hotel du film "Somewhere" de Sofia Coppola</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545bde6c604c4f7982a29899b719b7d9930563a0.jpg"></article>]]></description>
+            <link>http://madame.lefigaro.fr/art-de-vivre/california-dream-120513-381920</link>
+            <guid isPermaLink="false">483e9e2c-5947-4dc4-aab0-c0c1bb86df0f</guid>
+            <pubDate>Mon, 22 Aug 2016 13:27:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Angeles - Après-midi a venice beach. Dinner le soir dans le quartier]]></title>
@@ -68,13 +75,6 @@
             <link>http://archive.doobybrain.com/tag/griffith-park-observatory/</link>
             <guid isPermaLink="false">03737667-317f-4875-b2fa-da45f9d44e37</guid>
             <pubDate>Mon, 18 Jul 2016 14:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles: Brunch à l'hotel Château Marmont. Hotel du film "Somewhere" de Sofia Coppola]]></title>
-            <description><![CDATA[<article><h1>Los Angeles: Brunch à l'hotel Château Marmont. Hotel du film "Somewhere" de Sofia Coppola</h1><p>Los Angeles: Un brunch à l'hotel Château Marmont. Hotel du film "Somewhere" de Sofia Coppola</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545bde6c604c4f7982a29899b719b7d9930563a0.jpg"></article>]]></description>
-            <link>http://madame.lefigaro.fr/art-de-vivre/california-dream-120513-381920</link>
-            <guid isPermaLink="false">483e9e2c-5947-4dc4-aab0-c0c1bb86df0f</guid>
-            <pubDate>Mon, 18 Jul 2016 14:43:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
