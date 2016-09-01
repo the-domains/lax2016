@@ -1,199 +1,83 @@
 ---
-datePublished: '2016-08-30T07:56:02.207Z'
+datePublished: '2016-08-30T10:08:27.556Z'
+sourcePath: _posts/2016-08-30-bons-plans-a-san-francisco.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T07:55:46.773Z'
+dateModified: '2016-08-30T10:08:26.520Z'
 title: Bons Plans à San Francisco
 publisher: {}
 description: >-
-  *You can find addresses for all these places on Yelp or Google. Sorry, I’m too
-  lazy to add them here.
+  Burgers (higher end $15-$30 with fries) - All of these are EXCELLENT and
+  definitely worth it!  Dirty Habit/Spruce/Bix/Wayfare Tavern/Namu/The bar at
+  the Intercontinental at Howard @ 5th/Zuni/Alexander's Steakhouse (burger at
+  the bar only)/Bisou/Prospect (burger at the bar only)/Scotland Yard
 starred: false
-sourcePath: _posts/2016-08-30-bons-plans-a-san-francisco.md
 _type: Blurb
 
 ---
 # Bons Plans à San Francisco
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c64c51-6728-4890-b9d7-29f7c9ed5012.jpg)
 
-**\*You can find addresses for all these places on Yelp or Google. Sorry, I'm too lazy to add them here.**
-
 **Burgers (higher end $15-$30 with fries) - All of these are EXCELLENT and definitely worth it!**  
-Dirty Habit  
-Spruce  
-Bix  
-Wayfare Tavern  
-Namu  
-The bar at the Intercontinental at Howard @ 5th  
-Zuni
-
-Alexander's Steakhouse (burger at the bar only)
-
-Bisou
-
-Prospect (burger at the bar only)
-
-Scotland Yard
+Dirty Habit/Spruce/Bix/Wayfare Tavern/Namu/The bar at the Intercontinental at Howard @ 5th/Zuni/Alexander's Steakhouse (burger at the bar only)/Bisou/Prospect (burger at the bar only)/Scotland Yard
 
 **Burgers (mid-range $12-$15 with fries)**
 
-Tipsy Pig  
-Gaspar  
-Starbelly
-
-E&O Asian Kitchen
-
-Pacific Brewing Company
-
-Popson's
-
-Trueburger (Oakland)
+Tipsy Pig/Gaspar/Starbelly/E&O Asian Kitchen/Pacific Brewing Company/Popson's/Trueburger (Oakland)
 
 **Burgers (lower end, under $10 with fries)**  
-Brainwash  
-Hall of Flame  
-Super Duper
-
-Box
-
-  
-**Other food**  
-  
+Brainwash/Hall of Flame/Super Duper/Box
 
 **Breakfast Burritos**
 
-Brainwash (my \#1 choice for breakfast burrito)
-
-Taqueria Can-Cun
+Brainwash (my \#1 choice for breakfast burrito)/Taqueria Can-Cun
 
 **Breakfast Sandwiches**
 
-Devil's Teeth Baking Company
-
-Box (the breakfast sandwich is great, but only available after 4 PM when the bar opens)
-
-Millers East Coast Deli
+Devil's Teeth Baking Company/Box (the breakfast sandwich is great, but only available after 4 PM when the bar opens)/Millers East Coast Deli
 
 **Breakfast/Brunch**
 
-Dottie's True Blue Cafe (only get the specials and the grilled cornbread)
-
-Savor (corned beef hash)
-
-Kitchen Story
-
-Homeskillet
-
-Sweet Maple (breakfast pizza)
-
-Little Griddle (I like the Joe's scramble here)
-
-Nopa (FRENCH TOAST!!!)
-
-25 Lusk (the pancake is INSANE)
-
-Top of the Mark (special occasion)
+Dottie's True Blue Cafe (only get the specials and the grilled cornbread)/Savor (corned beef hash)/Kitchen Story/Homeskillet/Sweet Maple (breakfast pizza)/Little Griddle (I like the Joe's scramble here)/Nopa (FRENCH TOAST!!!)/25 Lusk (the pancake is INSANE)/Top of the Mark (special occasion)
 
 **Sandwiches**
 
-Deli Board
-
-Ted's Market and Deli
-
-Specialty's
-
-Freddie's
-
-El Norteno Taco Truck (tortas)
-
-That's It - The center of the mile (tortas)
-
-Bite Me (the mile high)
-
-Mr. Pickles
-
-Sandwich Spot
-
-Millers East Coast Deli
+Deli Board/Ted's Market and Deli/Specialty's/Freddie's/El Norteno Taco Truck (tortas)/That's It - The center of the mile (tortas)/Bite Me (the mile high)/Mr. Pickles/Sandwich Spot/Millers East Coast Deli
 
 **Vietnamese Sandwiches**
 
-Dinosaurs
-
-Saigon Sandwich
+Dinosaurs/Saigon Sandwich
 
 **California Cuisine**
 
-Rich Table (mushroom popovers/donuts)
-
-Foreign Cinema
-
-Marlowe (polenta)
-
-Sauce
+Rich Table (mushroom popovers/donuts)/Foreign Cinema/Marlowe (polenta)/Sauce
 
 **Indian**
 
-Amber
-
-Pakwan
+Amber/Pakwan
 
 **Indonesian**  
-Borobodur   
+Borobodur 
+
 **Italian**  
-Barbacco  
-Credo  
-L'Osteria Del Forno
-
-Perbacco
-
-Beretta
-
-Original Joe's
-
-Cotogna
+Barbacco/Credo/L'Osteria Del Forno/Perbacco/Beretta/Original Joe's/Cotogna
 
 **Meat**
 
-House of Prime Rib
-
-Espetus
-
-Harris
-
-Alexander's Steakhouse
+House of Prime Rib/Espetus/Harris/Alexander's Steakhouse
 
 **Mediterranean**
 
-Al a Turca
-
-La Mediterranee
-
-Kokkari
-
-Troya
+Al a Turca/La Mediterranee/Kokkari/Troya
 
 **Mexican**
 
-Tropiseuno
-
-Matador
-
-Taqueria Can-Cun
-
-Dos Pinas
-
-Velvet Cantina (burrito, mole, or chicken avocado enchiladas)
+Tropiseuno/Matador/Taqueria Can-Cun/Dos Pinas/Velvet Cantina (burrito, mole, or chicken avocado enchiladas)
 
 **Pan-Asian**
 
-Mandalay
-
-Citrus Club  
-House  
-Kitchen Story  
-E&O Asian Kitchen 
+Mandalay/Citrus Club/House/Kitchen Story/E&O Asian Kitchen
 
 **Pizza**
 
@@ -235,8 +119,7 @@ Pinkie's
 
 Tartine (only worth it if there's no line)
 
-  
-**Bars**   
+**Bars**  
 Press Club (wine bar)  
 Dirty Habit  
 Cavalier  
@@ -255,7 +138,6 @@ Pandora (karaoke)
 
 PianoFight
 
-  
 **Activities**
 
 Walking Tours (free and awesome) - [http://www.sfcityguides.org/index.html][1]
@@ -281,7 +163,6 @@ Golden Gate Park
 * Academy of Sciences (best on Thursday nights) - [http://www.calacademy.org/nightlife][9]
 * de Young Museum (best on Friday nights) - [http://deyoung.famsf.org/programs/fridays][10]
 
-  
 **Nightlife**
 
 (I'm not a nightlife person, but I hear these are fun)
@@ -296,7 +177,6 @@ Endup
 
 Audio
 
-  
 **Useful sites to find stuff to do**
 
 FunCheapSF
