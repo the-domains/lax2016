@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T10:08:27.556Z'
+datePublished: '2016-08-30T10:10:13.959Z'
 sourcePath: _posts/2016-08-30-bons-plans-a-san-francisco.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T10:08:26.520Z'
+dateModified: '2016-08-30T10:10:13.181Z'
 title: Bons Plans à San Francisco
 publisher: {}
 description: >-
@@ -58,7 +58,7 @@ Rich Table (mushroom popovers/donuts)/Foreign Cinema/Marlowe (polenta)/Sauce
 Amber/Pakwan
 
 **Indonesian**  
-Borobodur 
+Borobodur
 
 **Italian**  
 Barbacco/Credo/L'Osteria Del Forno/Perbacco/Beretta/Original Joe's/Cotogna
@@ -81,62 +81,14 @@ Mandalay/Citrus Club/House/Kitchen Story/E&O Asian Kitchen
 
 **Pizza**
 
-Patxi's (chicago style)  
-Tony's Pizza Neapolitana  
-Escape from New York  
-Extreme Pizza  
-Flour + Water
-
-Little Star (chicago style)
-
-Capo's
-
-Gialina
-
-Zero Zero
-
-Slice House
+Patxi's (chicago style)/Tony's Pizza Neapolitana/Escape from New York/Extreme Pizza/Flour + Water/Little Star (chicago style)/Capo's/Gialina/Zero Zero/Slice House
 
 **Ice Cream & Dessert**  
-Bi-Rite Creamery (brownie sundae)
-
-[DeLise][0]
-
-Little Giant
-
-Mitchell's
-
-Pearl's (great shakes)
-
-Loving Cup (frozen yogurt)
+Bi-Rite Creamery (brownie sundae)/[DeLise/][0]Little Giant/Mitchell's/Pearl's (great shakes)/Loving Cup (frozen yogurt)
 
 **Pastries**
 
-Batter  
-[DeLise][0]
-
-Pinkie's
-
-Tartine (only worth it if there's no line)
-
-**Bars**  
-Press Club (wine bar)  
-Dirty Habit  
-Cavalier  
-Local Edition  
-Owl Tree
-
-Bourbon & Branch
-
-The Mint (karaoke)
-
-Hi-Tops
-
-Novella
-
-Pandora (karaoke)
-
-PianoFight
+Batter[DeLise/][0]Pinkie's/Tartine (only worth it if there's no line)
 
 **Activities**
 
